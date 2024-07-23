@@ -1,0 +1,11 @@
+html{
+    font-family:'Times New Roman', Times, serif;
+    text-shadow: 20px;
+    background-color:honeydew
+}
+.name{
+    padding-left: 50%;
+}
+.white{
+    line-height: 1.8;
+}
